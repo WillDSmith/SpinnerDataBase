@@ -1,4 +1,4 @@
-#Spinner Data Challenge Submittal, this project was submitted as part of the 100 day Android Challenge
+#This project was submitted as part of the 100 day Android Challenge
 
 
 
