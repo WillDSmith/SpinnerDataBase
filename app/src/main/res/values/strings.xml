@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spinner Data Base Challenge</string>
+    <string name="enter_name">Enter Item</string>
+    <string name="add_text">Click Button to Add Item</string>
+</resources>
